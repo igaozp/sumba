@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.igaozp.sumba.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.igaozp.sumba.MyBundle
 
 class MyApplicationService {
 
